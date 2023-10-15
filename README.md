@@ -1,9 +1,7 @@
 # Fernando Torrecilla Pinero
 
-- Born: February 26th, 1982
-- 
+- Born: February 26th, 1982 (Cáceres, Spain)
 
-- 👋 Hi, I’m @fernandotorrecilla
 - 👀 I’m interested in Computer Science, Programming, Techonologies, sports, series & shows
 - 🌱 I’m currently a teacher in Secondary School
 - 💞️ I’m looking to collaborate on ...
