@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in Computer Science, Programming, Techonologies, sports, series & shows
 - 🌱 I’m currently a teacher in Secondary School
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to learn lots of things about new technologies, at the moment on Python & Reflex
 - 📫 How to reach me: twitter.com/nandotorrecilla
 
 <!---
