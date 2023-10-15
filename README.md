@@ -1,6 +1,11 @@
+# Fernando Torrecilla Pinero
+
+- Born: February 26th, 1982
+- 
+
 - 👋 Hi, I’m @fernandotorrecilla
 - 👀 I’m interested in Computer Science, Programming, Techonologies, sports, series & shows
-- 🌱 I’m currently learning to become a teacher in Secondary School
+- 🌱 I’m currently a teacher in Secondary School
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: twitter.com/nandotorrecilla
 
